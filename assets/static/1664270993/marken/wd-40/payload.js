@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/wd-40", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/wd-40-multifunktionsprodukt-smart-straw-200-ml-wd-40-5031547-1.jpg":"\u002Fassets\u002Fimages\u002Fwd-40-multifunktionsprodukt-smart-straw-200-ml-wd-40-5031547-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/obi", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/obi-hochleistungskompressor-12-v-obi-4695086-1.jpg":"\u002Fassets\u002Fimages\u002Fobi-hochleistungskompressor-12-v-obi-4695086-1.webp"}}],fetch:{},mutations:void 0});

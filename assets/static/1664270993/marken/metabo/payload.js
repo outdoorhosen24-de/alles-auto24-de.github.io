@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/metabo", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/metabo-kompressorenoel-fuer-kolbenverdichter-1-l-metabo-1898386-1.jpg":"\u002Fassets\u002Fimages\u002Fmetabo-kompressorenoel-fuer-kolbenverdichter-1-l-metabo-1898386-1.webp"}}],fetch:{},mutations:void 0});

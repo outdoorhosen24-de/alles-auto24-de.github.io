@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/quixx", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/quixx-lack-reparatur-stift-12-ml-quixx-6332225-1.jpg":"\u002Fassets\u002Fimages\u002Fquixx-lack-reparatur-stift-12-ml-quixx-6332225-1.webp"}}],fetch:{},mutations:void 0});

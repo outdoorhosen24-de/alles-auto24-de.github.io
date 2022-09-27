@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/g3", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/auto-dachbox-g3-220-l-schwarz-matt-g3-6629174-1.jpg":"\u002Fassets\u002Fimages\u002Fauto-dachbox-g3-220-l-schwarz-matt-g3-6629174-1.webp"}}],fetch:{},mutations:void 0});
