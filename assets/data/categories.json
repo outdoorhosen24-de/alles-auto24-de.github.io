@@ -1,107 +1,121 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "wartung & reparatur",
+        "name": "Wartung & Reparatur",
+        "slug": "wartung-reparatur",
+        "productCategory": "Wartung & Reparatur",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "lackreparatur & karosseriereparatur",
+        "name": "Lackreparatur & Karosseriereparatur",
+        "slug": "lackreparatur-karosseriereparatur",
+        "productCategory": "Lackreparatur & Karosseriereparatur",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "autopflege",
+        "name": "Autopflege",
+        "slug": "autopflege",
+        "productCategory": "Autopflege",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "fahrradträger",
+        "name": "Fahrradträger",
+        "slug": "fahrradtrager",
+        "productCategory": "Fahrradträger",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "fahrradträger-zubehör",
+        "name": "Fahrradträger-Zubehör",
+        "slug": "fahrradtrager-zubehor",
+        "productCategory": "Fahrradträger-Zubehör",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "dachträger",
+        "name": "Dachträger",
+        "slug": "dachtrager",
+        "productCategory": "Dachträger",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "außenausstattung",
+        "name": "Außenausstattung",
+        "slug": "aussenausstattung",
+        "productCategory": "Außenausstattung",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "sonstige wartung & autoreparatur",
+        "name": "Sonstige Wartung & Autoreparatur",
+        "slug": "sonstige-wartung-autoreparatur",
+        "productCategory": "Sonstige Wartung & Autoreparatur",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "fahrradträger für anhängerkupplung",
+        "name": "Fahrradträger für Anhängerkupplung",
+        "slug": "fahrradtrager-fur-anhangerkupplung",
+        "productCategory": "Fahrradträger für Anhängerkupplung",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "reise & transport",
+        "name": "Reise & Transport",
+        "slug": "reise-transport",
+        "productCategory": "Reise & Transport",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "zubehör für autoanhänger",
+        "name": "Zubehör für Autoanhänger",
+        "slug": "zubehor-fur-autoanhanger",
+        "productCategory": "Zubehör für Autoanhänger",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "öle & additive",
+        "name": "Öle & Additive",
+        "slug": "ole-additive",
+        "productCategory": "Öle & Additive",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "pannenhilfe & erste hilfe",
+        "name": "Pannenhilfe & Erste Hilfe",
+        "slug": "pannenhilfe-erste-hilfe",
+        "productCategory": "Pannenhilfe & Erste Hilfe",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "autoanhänger",
+        "name": "Autoanhänger",
+        "slug": "autoanhanger",
+        "productCategory": "Autoanhänger",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "innenausstattung",
+        "name": "Innenausstattung",
+        "slug": "innenausstattung",
+        "productCategory": "Innenausstattung",
+        "subCategories": []
+    },
+    {
+        "key": "autoelektrik",
+        "name": "Autoelektrik",
+        "slug": "autoelektrik",
+        "productCategory": "Autoelektrik",
+        "subCategories": []
+    },
+    {
+        "key": "frostschutz",
+        "name": "Frostschutz",
+        "slug": "frostschutz",
+        "productCategory": "Frostschutz",
         "subCategories": []
     }
 ]

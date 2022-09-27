@@ -1,17 +1,31 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "dupli-color",
+        "name": "Dupli-Color",
+        "slug": "dupli-color",
+        "productCategory": "Dupli-Color",
+        "localThumb": "/assets/images/hersteller/dupli-color.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "presto",
+        "name": "Presto",
+        "slug": "presto",
+        "productCategory": "Presto",
+        "localThumb": "/assets/images/hersteller/presto.webp"
+    },
+    {
+        "key": "quixx",
+        "name": "QUIXX",
+        "slug": "quixx",
+        "productCategory": "QUIXX",
+        "localThumb": "/assets/images/hersteller/quixx.webp"
+    },
+    {
+        "key": "fischer fahrrad",
+        "name": "Fischer Fahrrad",
+        "slug": "fischer-fahrrad",
+        "productCategory": "Fischer Fahrrad",
+        "localThumb": "/assets/images/hersteller/fischer-fahrrad.webp"
     },
     {
         "key": "sonstige",
@@ -21,11 +35,130 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "eufab",
+        "name": "Eufab",
+        "slug": "eufab",
+        "productCategory": "Eufab",
+        "localThumb": "/assets/images/hersteller/eufab.webp"
+    },
+    {
+        "key": "menabo",
+        "name": "Menabo",
+        "slug": "menabo",
+        "productCategory": "Menabo",
+        "localThumb": "/assets/images/hersteller/menabo.webp"
+    },
+    {
+        "key": "g3",
+        "name": "G3",
+        "slug": "g3",
+        "productCategory": "G3",
+        "localThumb": "/assets/images/hersteller/g3.webp"
+    },
+    {
+        "key": "einhell",
+        "name": "Einhell",
+        "slug": "einhell",
+        "productCategory": "Einhell",
+        "localThumb": "/assets/images/hersteller/einhell.webp"
+    },
+    {
+        "key": "stema",
+        "name": "Stema",
+        "slug": "stema",
+        "productCategory": "Stema",
+        "localThumb": "/assets/images/hersteller/stema.webp"
+    },
+    {
+        "key": "bosch",
+        "name": "Bosch",
+        "slug": "bosch",
+        "productCategory": "Bosch",
+        "localThumb": "/assets/images/hersteller/bosch.webp"
+    },
+    {
+        "key": "highstar",
+        "name": "HighStar",
+        "slug": "highstar",
+        "productCategory": "HighStar",
+        "localThumb": "/assets/images/hersteller/highstar.webp"
+    },
+    {
+        "key": "las",
+        "name": "LAS",
+        "slug": "las",
+        "productCategory": "LAS",
+        "localThumb": "/assets/images/hersteller/las.webp"
+    },
+    {
+        "key": "apa",
+        "name": "Apa",
+        "slug": "apa",
+        "productCategory": "Apa",
+        "localThumb": "/assets/images/hersteller/apa.webp"
+    },
+    {
+        "key": "thule",
+        "name": "Thule",
+        "slug": "thule",
+        "productCategory": "Thule",
+        "localThumb": "/assets/images/hersteller/thule.webp"
+    },
+    {
+        "key": "mobicool",
+        "name": "Mobicool",
+        "slug": "mobicool",
+        "productCategory": "Mobicool",
+        "localThumb": "/assets/images/hersteller/mobicool.webp"
+    },
+    {
+        "key": "castrol",
+        "name": "Castrol",
+        "slug": "castrol",
+        "productCategory": "Castrol",
+        "localThumb": "/assets/images/hersteller/castrol.webp"
+    },
+    {
+        "key": "lux-tools",
+        "name": "LUX-TOOLS",
+        "slug": "lux-tools",
+        "productCategory": "LUX-TOOLS",
+        "localThumb": "/assets/images/hersteller/lux-tools.webp"
+    },
+    {
+        "key": "ernst",
+        "name": "Ernst",
+        "slug": "ernst",
+        "productCategory": "Ernst",
+        "localThumb": "/assets/images/hersteller/ernst.webp"
+    },
+    {
+        "key": "liquimoly",
+        "name": "LiquiMoly",
+        "slug": "liquimoly",
+        "productCategory": "LiquiMoly",
+        "localThumb": "/assets/images/hersteller/liquimoly.webp"
+    },
+    {
+        "key": "wd-40",
+        "name": "WD-40",
+        "slug": "wd-40",
+        "productCategory": "WD-40",
+        "localThumb": "/assets/images/hersteller/wd-40.webp"
+    },
+    {
+        "key": "michelin",
+        "name": "Michelin",
+        "slug": "michelin",
+        "productCategory": "Michelin",
+        "localThumb": "/assets/images/hersteller/michelin.webp"
+    },
+    {
+        "key": "metabo",
+        "name": "Metabo",
+        "slug": "metabo",
+        "productCategory": "Metabo",
+        "localThumb": "/assets/images/hersteller/metabo.webp"
     },
     {
         "key": "obi",
@@ -35,27 +168,6 @@
         "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
-    },
-    {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
-    },
-    {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
-    },
-    {
         "key": "cmi",
         "name": "CMI",
         "slug": "cmi",
@@ -63,24 +175,10 @@
         "localThumb": "/assets/images/hersteller/cmi.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
-    },
-    {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
-    },
-    {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "goodyear",
+        "name": "Goodyear",
+        "slug": "goodyear",
+        "productCategory": "Goodyear",
+        "localThumb": "/assets/images/hersteller/goodyear.webp"
     }
 ]
