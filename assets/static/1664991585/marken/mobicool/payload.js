@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/mobicool", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/kuehlbox-me27-mobicool-7143001-1.jpg":"\u002Fassets\u002Fimages\u002Fkuehlbox-me27-mobicool-7143001-1.webp"}}],fetch:{},mutations:void 0});

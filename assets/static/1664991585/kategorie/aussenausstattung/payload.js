@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/aussenausstattung", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/dupli-color-lackstift-tuning-wheel-paint-12-ml-dupli-color-3712593-1.jpg":"\u002Fassets\u002Fimages\u002Fdupli-color-lackstift-tuning-wheel-paint-12-ml-dupli-color-3712593-1.webp"}}],fetch:{},mutations:void 0});

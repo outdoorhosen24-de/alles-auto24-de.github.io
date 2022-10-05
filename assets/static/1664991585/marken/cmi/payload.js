@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/cmi", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/cmi-kompressor-12-v-cmi-1247626-1.jpg":"\u002Fassets\u002Fimages\u002Fcmi-kompressor-12-v-cmi-1247626-1.webp"}}],fetch:{},mutations:void 0});

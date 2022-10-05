@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/michelin", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/michelin-aufladbare-akku-luftpumpe-michelin-7034275-1.jpg":"\u002Fassets\u002Fimages\u002Fmichelin-aufladbare-akku-luftpumpe-michelin-7034275-1.webp"}}],fetch:{},mutations:void 0});
