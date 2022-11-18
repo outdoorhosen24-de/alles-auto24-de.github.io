@@ -1,5 +1,5 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "alles-auto24.de",
     "hostname": "https://www.alles-auto24.de/",
     "email": "alles-auto24.desurrealnetworks.io",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Autozubehör",
-        "featureText": "Das Autozubehör-Shop ist ein Online-Shop für Autozubehör. Wir bieten eine große Auswahl an Autozubehör für alle Marken und Modelle. Unser Sortiment umfasst alles, von Autositzbezügen und Autoteppichen bis hin zu Autowaschen und Autopflegemitteln. Wir bieten auch eine große Auswahl an Autozubehör für Ihr Zuhause, wie z.B. Garagen, Carports und Autoreinigungsprodukte.",
+        "featureText": "Alles-auto24.de ist ein Online-Shop für Autozubehör. Wir bieten eine große Auswahl an Autozubehör für alle Marken und Modelle. Unser Sortiment umfasst alles, von Autositzbezügen und Autoteppichen bis hin zu Autowaschen und Autopflegemitteln. Wir bieten auch eine große Auswahl an Autozubehör für Ihr Zuhause, wie z.B. Dachträger, Fahrradträger, Autoanhänger und Autoelektrik.",
         "index": {
-            "title": "Autozubehör-Shop",
-            "metaDescription": "Autozubehör für alle Marken und Modelle. Schneller Versand und günstige Preise!",
+            "title": "Shop für Autozubehör",
+            "metaDescription": "Autozubehör für alle Marken und Modelle. Autopflege, Autoanhänger, Auto Dachträger, Fahrradträger Auto, uvm. Schneller Versand und günstige Preise!",
             "robots": "index, follow",
             "texts": [
                 {
@@ -59,19 +59,19 @@
             ]
         },
         "shop": {
-            "title": "Autozubehör-Shop",
-            "metaDescription": "Autozubehör Shop - Hier findest du alles für dein Auto!",
+            "title": "Günstig Autozubehör shoppen",
+            "metaDescription": "In unserem Shop für Autozubehör findest du alles was du an Zubehör für dein Auto benötigst. Best-Preis-Garantie. Top Produkte und schneller Versand.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Autozubehör-Hersteller",
-            "metaDescription": "Autozubehör-Hersteller bietet eine große Auswahl an Autozubehör für Ihr Auto. Kaufen Sie Autozubehör bei uns zu günstigen Preisen.",
+            "title": "Hersteller für Autozubehör",
+            "metaDescription": "Auflistung aller Hersteller und Produkte für Autozubehör. Finde die besten und günstigsten Produkte in unserem Shop. Übersicht aller Marken.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT Autozubehör - Originalteile und Zubehör",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Autozubehör für Ihr Fahrzeug. Wählen Sie aus einer Vielzahl an $KATEGORIE und finden Sie das richtige Zubehör für Ihr Auto.",
+        "defaultTitle": "$PRODUKT - Autozubehör",
+        "defaultMetaDescription": "In der Kategorie \"$KATEGORIE\" finden Sie das Produkt $PRODUKT vom Hersteller $HERSTELLER zu einem günstigen Preis. Schneller Versand.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -86,8 +86,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Autozubehör für Ihr Fahrzeug",
-        "defaultMetaDescription": "$KATEGORIE Autozubehör - Finde die besten Autoteile und -zubehör für dein Fahrzeug. Wir haben alles, was du brauchst, um dein Auto in Top-Zustand zu halten.",
+        "defaultTitle": "$KATEGORIE | Autozubehör",
+        "defaultMetaDescription": "Autozubehör aus der Kategorie $KATEGORIE- Finde das beste Autozubehör für dein Fahrzeug. Top $KATEGORIE Produkte. Schneller Versand.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -113,8 +113,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Ansprechpartner für Autozubehör. Wir bieten Ihnen eine große Auswahl an hochwertigen Produkten für Ihr Auto.",
+        "defaultTitle": "Autozubehör von $HERSTELLER",
+        "defaultMetaDescription": "$HERSTELLER bietet Ihnen eine große Auswahl an hochwertigem Autozubehör. Der beste Preis im Internet und schneller Versand.",
         "defaultRobots": "index, follow",
         "brands": [
             {
