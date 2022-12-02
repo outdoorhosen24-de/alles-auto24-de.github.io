@@ -51,12 +51,15 @@
             "title": "Shop für Autozubehör",
             "metaDescription": "Autozubehör für alle Marken und Modelle. Autopflege, Autoanhänger, Auto Dachträger, Fahrradträger Auto, uvm. Schneller Versand und günstige Preise!",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Autoaccessoires",
-                    "text": "Das Auto ist ein unverzichtbares Fortbewegungsmittel in der heutigen Gesellschaft. Ohne Auto ist es schwer, sich fortzubewegen und am gesellschaftlichen Leben teilzuhaben. Daher ist es wichtig, dass das Auto in einem guten Zustand ist und alle notwendigen Accessoires hat.\n\nEin wichtiges Accessoire für das Auto ist ein guter Autositz. Ein bequemer Autositz ist wichtig, damit man sich während der Fahrt wohlfühlt. Es gibt verschiedene Arten von Autositze, die für verschiedene Bedürfnisse entwickelt wurden. Die meisten Autos haben Vordersitze, aber es gibt auch Rücksitze, die für die Beifahrer bestimmt sind.\n\nEin weiteres wichtiges Accessoire für das Auto ist ein guter Autoreifen. Reifen müssen in einem guten Zustand sein, damit das Auto gut fährt. Reifen sollten regelmäßig gewechselt werden, um sicherzustellen, dass sie in einem guten Zustand sind.\n\nEin weiteres wichtiges Accessoire für das Auto ist eine gute Autofelge. Felgen müssen in einem guten Zustand sein, damit das Auto gut fährt. Felgen sollten regelmäßig gewechselt werden, um sicherzustellen, dass sie in einem guten Zustand sind.\n\nEin weiteres wichtiges Accessoire für das Auto ist eine gute Autokupplung. Kupplungen müssen in einem guten Zustand sein, damit das Auto gut fährt. Kupplungen so"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Autoaccessoires",
+                        "text": "Das Auto ist ein unverzichtbares Fortbewegungsmittel in der heutigen Gesellschaft. Ohne Auto ist es schwer, sich fortzubewegen und am gesellschaftlichen Leben teilzuhaben. Daher ist es wichtig, dass das Auto in einem guten Zustand ist und alle notwendigen Accessoires hat.\n\nEin wichtiges Accessoire für das Auto ist ein guter Autositz. Ein bequemer Autositz ist wichtig, damit man sich während der Fahrt wohlfühlt. Es gibt verschiedene Arten von Autositze, die für verschiedene Bedürfnisse entwickelt wurden. Die meisten Autos haben Vordersitze, aber es gibt auch Rücksitze, die für die Beifahrer bestimmt sind.\n\nEin weiteres wichtiges Accessoire für das Auto ist ein guter Autoreifen. Reifen müssen in einem guten Zustand sein, damit das Auto gut fährt. Reifen sollten regelmäßig gewechselt werden, um sicherzustellen, dass sie in einem guten Zustand sind.\n\nEin weiteres wichtiges Accessoire für das Auto ist eine gute Autofelge. Felgen müssen in einem guten Zustand sein, damit das Auto gut fährt. Felgen sollten regelmäßig gewechselt werden, um sicherzustellen, dass sie in einem guten Zustand sind.\n\nEin weiteres wichtiges Accessoire für das Auto ist eine gute Autokupplung. Kupplungen müssen in einem guten Zustand sein, damit das Auto gut fährt. Kupplungen so"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Günstig Autozubehör shoppen",
