@@ -23,21 +23,21 @@
     {
         "key": "fahrradträger",
         "name": "Fahrradträger",
-        "slug": "fahrradtrager",
+        "slug": "fahrradtraeger",
         "productCategory": "Fahrradträger",
         "subCategories": []
     },
     {
         "key": "fahrradträger-zubehör",
         "name": "Fahrradträger-Zubehör",
-        "slug": "fahrradtrager-zubehor",
+        "slug": "fahrradtraeger-zubehoer",
         "productCategory": "Fahrradträger-Zubehör",
         "subCategories": []
     },
     {
         "key": "dachträger",
         "name": "Dachträger",
-        "slug": "dachtrager",
+        "slug": "dachtraeger",
         "productCategory": "Dachträger",
         "subCategories": []
     },
@@ -58,7 +58,7 @@
     {
         "key": "fahrradträger für anhängerkupplung",
         "name": "Fahrradträger für Anhängerkupplung",
-        "slug": "fahrradtrager-fur-anhangerkupplung",
+        "slug": "fahrradtraeger-fuer-anhaengerkupplung",
         "productCategory": "Fahrradträger für Anhängerkupplung",
         "subCategories": []
     },
@@ -72,14 +72,14 @@
     {
         "key": "zubehör für autoanhänger",
         "name": "Zubehör für Autoanhänger",
-        "slug": "zubehor-fur-autoanhanger",
+        "slug": "zubehoer-fuer-autoanhaenger",
         "productCategory": "Zubehör für Autoanhänger",
         "subCategories": []
     },
     {
         "key": "öle & additive",
         "name": "Öle & Additive",
-        "slug": "ole-additive",
+        "slug": "oele-additive",
         "productCategory": "Öle & Additive",
         "subCategories": []
     },
@@ -93,7 +93,7 @@
     {
         "key": "autoanhänger",
         "name": "Autoanhänger",
-        "slug": "autoanhanger",
+        "slug": "autoanhaenger",
         "productCategory": "Autoanhänger",
         "subCategories": []
     },
