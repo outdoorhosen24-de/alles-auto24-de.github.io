@@ -1,235 +1,334 @@
 {
-    "configIsReady": true,
-    "domain": "alles-auto24.de",
-    "hostname": "https://www.alles-auto24.de/",
-    "email": "alles-auto24.de@surrealnetworks.io",
-    "organization": "alles-auto24.de",
-    "logoText": "Alles-auto24.de",
-    "title": "Autozubehör",
-    "subline": "Der Online Shop für Autozubehör",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "affiliate": {
-        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-    },
-    "popularProducts": [
-        "8529778",
-        "6829758",
-        "8529810",
-        "8529893",
-        "5759121",
-        "2575801"
-    ],
-    "winnerProducts": [
-        "6530174",
-        "8711103",
-        "9710757"
-    ],
-    "featuredCategories": [
-        "Reise & Transport",
-        "Außenausstattung",
-        "Frostschutz",
-        "Fahrradträger für Anhängerkupplung",
-        "Öle & Additive",
-        "Wartung & Reparatur"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Autozubehör",
-        "featureText": "Alles-auto24.de ist ein Online-Shop für Autozubehör. Wir bieten eine große Auswahl an Autozubehör für alle Marken und Modelle. Unser Sortiment umfasst alles, von Autositzbezügen und Autoteppichen bis hin zu Autowaschen und Autopflegemitteln. Wir bieten auch eine große Auswahl an Autozubehör für Ihr Zuhause, wie z.B. Dachträger, Fahrradträger, Autoanhänger und Autoelektrik. Wir führen lediglich Qualitätsprodukte von bewährten Herstellern.",
-        "index": {
-            "title": "Shop für Autozubehör",
-            "metaDescription": "Autozubehör für alle Marken und Modelle. Autopflege, Autoanhänger, Auto Dachträger, Fahrradträger Auto, uvm. Schneller Versand und günstige Preise!",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei alles-auto24.de - Ihrem Online-Shop für Autozubehör!",
-                        "text": "Herzlich willkommen bei alles-auto24.de, Ihrem Online-Shop für alles rund um das Thema Autozubehör. Wir bieten Ihnen eine breite Palette an Produkten, die Ihr Auto noch sicherer, praktischer und komfortabler machen. Ob Sie auf der Suche nach Wartungs- und Reparaturartikeln, Autopflegeprodukten, Fahrradträgern oder Dachträgern sind - bei uns finden Sie alles, was Sie brauchen.Unser Sortiment umfasst auch Zubehör für Autoanhänger, Innenausstattung, Autoelektrik und sogar Frostschutz. Wir haben für jeden Bedarf das passende Produkt. Darüber hinaus bieten wir Ihnen auch eine große Auswahl an Ölen und Additiven, Pannenhilfe und Erste Hilfe sowie Reise- und Transportzubehör.Wir sind stolz darauf, Ihnen eine einfache und bequeme Online-Einkaufserfahrung zu bieten. Unser Online-Shop ist intuitiv zu bedienen und bietet Ihnen eine übersichtliche Navigation, die es Ihnen ermöglicht, schnell und einfach das gewünschte Produkt zu finden.Wir legen großen Wert auf Qualität und Kundenzufriedenheit. Daher arbeiten wir nur mit vertrauenswürdigen Lieferanten zusammen und bieten Ihnen eine große Auswahl an Markenprodukten zu erschwinglichen Preisen.Also, worauf warten Sie noch? Stöbern Sie jetzt durch unsere Produktkategorien und entdecken Sie die Vielfalt an Autozubehör, die wir Ihnen zu bieten haben. Bei Fragen oder Anregungen steht Ihnen unser Kundenservice jederzeit gerne zur Verfügung."
-                    },
-                    {
-                        "title": "Wartung & Reparatur",
-                        "text": "Bei alles-auto24.de finden Sie alles, was Sie für die Wartung und Reparatur Ihres Autos benötigen. Von Ölwechsel-Sets bis hin zu Bremsbelägen und Zündkerzen bieten wir eine breite Palette an Produkten für die Wartung und Reparatur Ihres Fahrzeugs. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
-                    },
-                    {
-                        "title": "Lackreparatur & Karosseriereparatur",
-                        "text": "Sie haben einen Kratzer im Auto oder einen größeren Schaden an der Karosserie? Kein Problem! Bei alles-auto24.de finden Sie alles, was Sie für die Lack- und Karosseriereparatur benötigen. Von Lackstiften bis hin zu Spachtelmasse und Schleifpapier bieten wir eine große Auswahl an Produkten, mit denen Sie Ihr Auto wieder in neuem Glanz erstrahlen lassen können."
-                    },
-                    {
-                        "title": "Autopflege",
-                        "text": "Ein gepflegtes Auto macht nicht nur Freude beim Fahren, sondern auch beim Ansehen. Bei alles-auto24.de finden Sie alles, was Sie für die <a href=\"/kategorie/autopflege/\" title=\"Autopflege\">Autopflege</a> benötigen. Von Reinigungsmitteln bis hin zu Poliermaschinen und Schutzfolien bieten wir eine breite Palette an Produkten, mit denen Sie Ihr Auto immer in Top-Zustand halten können."
-                    },
-                    {
-                        "title": "Fahrradträger",
-                        "text": "Bei alles-auto24.de finden Sie eine große Auswahl an <a href=\"/kategorie/fahrradtraeger/\" title=\"Fahrradträger\">Fahrradträger</a>n für Ihr Auto. Von einfachen Heckträgern bis hin zu Fahrradträgern für Anhängerkupplungen bieten wir eine breite Palette an Produkten, mit denen Sie Ihr Fahrrad sicher und bequem transportieren können. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
-                    },
-                    {
-                        "title": "Fahrradträger-Zubehör",
-                        "text": "Sie suchen das passende Zubehör für Ihren Fahrradträger? Bei alles-auto24.de finden Sie alles, was Sie benötigen. Von Fahrradschlössern bis hin zu Verlängerungsstangen und Adapter bieten wir eine große Auswahl an Produkten, mit denen Sie Ihren Fahrradträger optimal nutzen können."
-                    },
-                    {
-                        "title": "Dachträger",
-                        "text": "Sie möchten Ihr Fahrrad oder andere Gegenstände auf dem Dach Ihres Autos transportieren? Kein Problem! Bei alles-auto24.de finden Sie eine große Auswahl an <a href=\"/kategorie/dachtraeger/\" title=\"Dachträger\">Dachträger</a>n für Ihr Auto. Von einfachen Dachträgern bis hin zu kompletten Dachträgersystemen bieten wir eine breite Palette an Produkten, mit denen Sie Ihre Gegenstände sicher und bequem transportieren können."
-                    },
-                    {
-                        "title": "Außenausstattung",
-                        "text": "Bei alles-auto24.de finden Sie alles, was Sie für die <a href=\"/kategorie/aussenausstattung/\" title=\"Aussenausstattung\">Aussenausstattung</a> Ihres Autos benötigen. Von Spoiler bis hin zu Scheinwerfern und Stoßstangen bieten wir eine breite Palette an Produkten, mit denen Sie Ihr Auto optisch aufwerten können. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
-                    },
-                    {
-                        "title": "Sonstige Wartung & Autoreparatur",
-                        "text": "Sie suchen ein bestimmtes Produkt für die Wartung oder Reparatur Ihres Autos, aber es ist nicht in einer der üblichen Kategorien zu finden? Kein Problem! Bei alles-auto24.de finden Sie alles, was Sie für die sonstige Wartung und Autoreparatur benötigen, in der Kategorie „<a href=\"/kategorie/sonstige-wartung-autoreparatur/\" title=\"Sonstige Wartung & Autoreparatur\">Sonstige Wartung & Autoreparatur</a>“. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
-                    },
-                    {
-                        "title": "Fahrradträger für Anhängerkupplung",
-                        "text": "Sie möchten Ihr Fahrrad auf der Anhängerkupplung transportieren? Bei alles-auto24.de finden Sie eine große Auswahl an Fahrradträgern für Anhängerkupplungen. Von einfachen Fahrradträgern bis hin zu kompletten Trägersystemen bieten wir eine breite Palette an Produkten, mit denen Sie Ihr Fahrrad sicher und bequem auf der Anhängerkupplung transportieren können. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
-                    },
-                    {
-                        "title": "Reise & Transport",
-                        "text": "Bei alles-auto24.de finden Sie alles, was Sie für Ihre nächste Reise oder den Transport Ihrer Gegenstände benötigen. Von Dachboxen bis hin zu Fahrradträgern und Anhängerkupplungen bieten wir eine breite Palette an Produkten, mit denen Sie Ihre Reise oder den Transport Ihrer Gegenstände sicher und bequem gestalten können. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
-                    },
-                    {
-                        "title": "Zubehör für Autoanhänger",
-                        "text": "Sie benötigen Zubehör für Ihren Autoanhänger? Bei alles-auto24.de finden Sie alles, was Sie benötigen. Von Deichselabdeckungen bis hin zu Stützrädern und Kupplungen bieten wir eine große Auswahl an Produkten, mit denen Sie Ihren Autoanhänger optimal nutzen können. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
-                    },
-                    {
-                        "title": "Öle & Additive",
-                        "text": "Bei alles-auto24.de finden Sie eine große Auswahl an Ölen und Additiven für Ihr Auto. Von Motoröl bis hin zu Schmierstoffen und Reinigungsmitteln bieten wir eine breite Palette an Produkten, mit denen Sie die Leistung und den Zustand Ihres Autos optimal unterstützen können. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
-                    },
-                    {
-                        "title": "Pannenhilfe & Erste Hilfe",
-                        "text": "Bei alles-auto24.de finden Sie alles, was Sie im Falle einer Panne oder eines Unfalls benötigen. Von Warndreiecken bis hin zu Verbandskästen und Abschleppseilen bieten wir eine breite Palette an Produkten für Pannenhilfe und Erste Hilfe. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
-                    },
-                    {
-                        "title": "Autoanhänger",
-                        "text": "Sie benötigen einen <a href=\"/kategorie/autoanhaenger/\" title=\"Autoanhänger\">Autoanhänger</a> für den Transport Ihrer Gegenstände? Bei alles-auto24.de finden Sie eine große Auswahl an Autoanhängern. Von einfachen Anhängern bis hin zu kompletten Anhängersystemen bieten wir eine breite Palette an Produkten, mit denen Sie Ihre Gegenstände sicher und bequem transportieren können. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
-                    },
-                    {
-                        "title": "Innenausstattung",
-                        "text": "Bei alles-auto24.de finden Sie alles, was Sie für die <a href=\"/kategorie/innenausstattung/\" title=\"Innenausstattung\">Innenausstattung</a> Ihres Autos benötigen. Von Autositzen bis hin zu Sonnenblenden und Fußmatten bieten wir eine breite Palette an Produkten, mit denen Sie den Innenraum Ihres Autos optimal gestalten können. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
-                    },
-                    {
-                        "title": "Autoelektrik",
-                        "text": "Bei alles-auto24.de finden Sie alles, was Sie für die Elektrik Ihres Autos benötigen. Von Batterien bis hin zu Ladegeräten und Kabeln bieten wir eine breite Palette an Produkten, mit denen Sie die Elektrik Ihres Autos optimal unterstützen können. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
-                    },
-                    {
-                        "title": "Frostschutz",
-                        "text": "Sie möchten Ihr Auto vor Frost schützen? Bei alles-auto24.de finden Sie eine große Auswahl an <a href=\"/kategorie/frostschutz/\" title=\"Frostschutz\">Frostschutz</a>produkten. Von Frostschutzmitteln bis hin zu Winterreifen bieten wir eine breite Palette an Produkten, mit denen Sie Ihr Auto optimal vor Frost schützen können. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Günstig Autozubehör shoppen",
-            "metaDescription": "In unserem Shop für Autozubehör findest du alles was du an Zubehör für dein Auto benötigst. Best-Preis-Garantie. Top Produkte und schneller Versand.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Hersteller für Autozubehör",
-            "metaDescription": "Auflistung aller Hersteller und Produkte für Autozubehör. Finde die besten und günstigsten Produkte in unserem Shop. Übersicht aller Marken.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT - Autozubehör",
-        "defaultMetaDescription": "In der Kategorie \"$KATEGORIE\" finden Sie das Produkt $PRODUKT vom Hersteller $HERSTELLER zu einem günstigen Preis. Schneller Versand.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "alles-auto24.de",
+  "hostname": "https://www.alles-auto24.de/",
+  "email": "alles-auto24.de@surrealnetworks.io",
+  "organization": "alles-auto24.de",
+  "logoText": "Alles-auto24.de",
+  "title": "Autozubehör",
+  "subline": "Der Online Shop für Autozubehör",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  },
+  "popularProducts": [
+    "8529778",
+    "6829758",
+    "8529810",
+    "8529893",
+    "5759121",
+    "2575801"
+  ],
+  "winnerProducts": [
+    "6530174",
+    "8711103",
+    "9710757"
+  ],
+  "featuredCategories": [
+    "Reise & Transport",
+    "Außenausstattung",
+    "Frostschutz",
+    "Fahrradträger für Anhängerkupplung",
+    "Öle & Additive",
+    "Wartung & Reparatur"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Autozubehör",
+    "featureText": "Alles-auto24.de ist ein Online-Shop für Autozubehör. Wir bieten eine große Auswahl an Autozubehör für alle Marken und Modelle. Unser Sortiment umfasst alles, von Autositzbezügen und Autoteppichen bis hin zu Autowaschen und Autopflegemitteln. Wir bieten auch eine große Auswahl an Autozubehör für Ihr Zuhause, wie z.B. Dachträger, Fahrradträger, Autoanhänger und Autoelektrik. Wir führen lediglich Qualitätsprodukte von bewährten Herstellern.",
+    "index": {
+      "title": "Shop für Autozubehör",
+      "metaDescription": "Autozubehör für alle Marken und Modelle. Autopflege, Autoanhänger, Auto Dachträger, Fahrradträger Auto, uvm. Schneller Versand und günstige Preise!",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei alles-auto24.de - Ihrem Online-Shop für Autozubehör!",
+            "text": "Herzlich willkommen bei alles-auto24.de, Ihrem Online-Shop für alles rund um das Thema Autozubehör. Wir bieten Ihnen eine breite Palette an Produkten, die Ihr Auto noch sicherer, praktischer und komfortabler machen. Ob Sie auf der Suche nach Wartungs- und Reparaturartikeln, Autopflegeprodukten, Fahrradträgern oder Dachträgern sind - bei uns finden Sie alles, was Sie brauchen.Unser Sortiment umfasst auch Zubehör für Autoanhänger, Innenausstattung, Autoelektrik und sogar Frostschutz. Wir haben für jeden Bedarf das passende Produkt. Darüber hinaus bieten wir Ihnen auch eine große Auswahl an Ölen und Additiven, Pannenhilfe und Erste Hilfe sowie Reise- und Transportzubehör.Wir sind stolz darauf, Ihnen eine einfache und bequeme Online-Einkaufserfahrung zu bieten. Unser Online-Shop ist intuitiv zu bedienen und bietet Ihnen eine übersichtliche Navigation, die es Ihnen ermöglicht, schnell und einfach das gewünschte Produkt zu finden.Wir legen großen Wert auf Qualität und Kundenzufriedenheit. Daher arbeiten wir nur mit vertrauenswürdigen Lieferanten zusammen und bieten Ihnen eine große Auswahl an Markenprodukten zu erschwinglichen Preisen.Also, worauf warten Sie noch? Stöbern Sie jetzt durch unsere Produktkategorien und entdecken Sie die Vielfalt an Autozubehör, die wir Ihnen zu bieten haben. Bei Fragen oder Anregungen steht Ihnen unser Kundenservice jederzeit gerne zur Verfügung."
+          },
+          {
+            "title": "Wartung & Reparatur",
+            "text": "Bei alles-auto24.de finden Sie alles, was Sie für die Wartung und Reparatur Ihres Autos benötigen. Von Ölwechsel-Sets bis hin zu Bremsbelägen und Zündkerzen bieten wir eine breite Palette an Produkten für die Wartung und Reparatur Ihres Fahrzeugs. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
+          },
+          {
+            "title": "Lackreparatur & Karosseriereparatur",
+            "text": "Sie haben einen Kratzer im Auto oder einen größeren Schaden an der Karosserie? Kein Problem! Bei alles-auto24.de finden Sie alles, was Sie für die Lack- und Karosseriereparatur benötigen. Von Lackstiften bis hin zu Spachtelmasse und Schleifpapier bieten wir eine große Auswahl an Produkten, mit denen Sie Ihr Auto wieder in neuem Glanz erstrahlen lassen können."
+          },
+          {
+            "title": "Autopflege",
+            "text": "Ein gepflegtes Auto macht nicht nur Freude beim Fahren, sondern auch beim Ansehen. Bei alles-auto24.de finden Sie alles, was Sie für die <a href=\"/kategorie/autopflege/\" title=\"Autopflege\">Autopflege</a> benötigen. Von Reinigungsmitteln bis hin zu Poliermaschinen und Schutzfolien bieten wir eine breite Palette an Produkten, mit denen Sie Ihr Auto immer in Top-Zustand halten können."
+          },
+          {
+            "title": "Fahrradträger",
+            "text": "Bei alles-auto24.de finden Sie eine große Auswahl an <a href=\"/kategorie/fahrradtraeger/\" title=\"Fahrradträger\">Fahrradträger</a>n für Ihr Auto. Von einfachen Heckträgern bis hin zu Fahrradträgern für Anhängerkupplungen bieten wir eine breite Palette an Produkten, mit denen Sie Ihr Fahrrad sicher und bequem transportieren können. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
+          },
+          {
+            "title": "Fahrradträger-Zubehör",
+            "text": "Sie suchen das passende Zubehör für Ihren Fahrradträger? Bei alles-auto24.de finden Sie alles, was Sie benötigen. Von Fahrradschlössern bis hin zu Verlängerungsstangen und Adapter bieten wir eine große Auswahl an Produkten, mit denen Sie Ihren Fahrradträger optimal nutzen können."
+          },
+          {
+            "title": "Dachträger",
+            "text": "Sie möchten Ihr Fahrrad oder andere Gegenstände auf dem Dach Ihres Autos transportieren? Kein Problem! Bei alles-auto24.de finden Sie eine große Auswahl an <a href=\"/kategorie/dachtraeger/\" title=\"Dachträger\">Dachträger</a>n für Ihr Auto. Von einfachen Dachträgern bis hin zu kompletten Dachträgersystemen bieten wir eine breite Palette an Produkten, mit denen Sie Ihre Gegenstände sicher und bequem transportieren können."
+          },
+          {
+            "title": "Außenausstattung",
+            "text": "Bei alles-auto24.de finden Sie alles, was Sie für die <a href=\"/kategorie/aussenausstattung/\" title=\"Aussenausstattung\">Aussenausstattung</a> Ihres Autos benötigen. Von Spoiler bis hin zu Scheinwerfern und Stoßstangen bieten wir eine breite Palette an Produkten, mit denen Sie Ihr Auto optisch aufwerten können. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
+          },
+          {
+            "title": "Sonstige Wartung & Autoreparatur",
+            "text": "Sie suchen ein bestimmtes Produkt für die Wartung oder Reparatur Ihres Autos, aber es ist nicht in einer der üblichen Kategorien zu finden? Kein Problem! Bei alles-auto24.de finden Sie alles, was Sie für die sonstige Wartung und Autoreparatur benötigen, in der Kategorie „<a href=\"/kategorie/sonstige-wartung-autoreparatur/\" title=\"Sonstige Wartung & Autoreparatur\">Sonstige Wartung & Autoreparatur</a>“. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
+          },
+          {
+            "title": "Fahrradträger für Anhängerkupplung",
+            "text": "Sie möchten Ihr Fahrrad auf der Anhängerkupplung transportieren? Bei alles-auto24.de finden Sie eine große Auswahl an Fahrradträgern für Anhängerkupplungen. Von einfachen Fahrradträgern bis hin zu kompletten Trägersystemen bieten wir eine breite Palette an Produkten, mit denen Sie Ihr Fahrrad sicher und bequem auf der Anhängerkupplung transportieren können. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
+          },
+          {
+            "title": "Reise & Transport",
+            "text": "Bei alles-auto24.de finden Sie alles, was Sie für Ihre nächste Reise oder den Transport Ihrer Gegenstände benötigen. Von Dachboxen bis hin zu Fahrradträgern und Anhängerkupplungen bieten wir eine breite Palette an Produkten, mit denen Sie Ihre Reise oder den Transport Ihrer Gegenstände sicher und bequem gestalten können. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
+          },
+          {
+            "title": "Zubehör für Autoanhänger",
+            "text": "Sie benötigen Zubehör für Ihren Autoanhänger? Bei alles-auto24.de finden Sie alles, was Sie benötigen. Von Deichselabdeckungen bis hin zu Stützrädern und Kupplungen bieten wir eine große Auswahl an Produkten, mit denen Sie Ihren Autoanhänger optimal nutzen können. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
+          },
+          {
+            "title": "Öle & Additive",
+            "text": "Bei alles-auto24.de finden Sie eine große Auswahl an Ölen und Additiven für Ihr Auto. Von Motoröl bis hin zu Schmierstoffen und Reinigungsmitteln bieten wir eine breite Palette an Produkten, mit denen Sie die Leistung und den Zustand Ihres Autos optimal unterstützen können. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
+          },
+          {
+            "title": "Pannenhilfe & Erste Hilfe",
+            "text": "Bei alles-auto24.de finden Sie alles, was Sie im Falle einer Panne oder eines Unfalls benötigen. Von Warndreiecken bis hin zu Verbandskästen und Abschleppseilen bieten wir eine breite Palette an Produkten für Pannenhilfe und Erste Hilfe. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
+          },
+          {
+            "title": "Autoanhänger",
+            "text": "Sie benötigen einen <a href=\"/kategorie/autoanhaenger/\" title=\"Autoanhänger\">Autoanhänger</a> für den Transport Ihrer Gegenstände? Bei alles-auto24.de finden Sie eine große Auswahl an Autoanhängern. Von einfachen Anhängern bis hin zu kompletten Anhängersystemen bieten wir eine breite Palette an Produkten, mit denen Sie Ihre Gegenstände sicher und bequem transportieren können. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
+          },
+          {
+            "title": "Innenausstattung",
+            "text": "Bei alles-auto24.de finden Sie alles, was Sie für die <a href=\"/kategorie/innenausstattung/\" title=\"Innenausstattung\">Innenausstattung</a> Ihres Autos benötigen. Von Autositzen bis hin zu Sonnenblenden und Fußmatten bieten wir eine breite Palette an Produkten, mit denen Sie den Innenraum Ihres Autos optimal gestalten können. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
+          },
+          {
+            "title": "Autoelektrik",
+            "text": "Bei alles-auto24.de finden Sie alles, was Sie für die Elektrik Ihres Autos benötigen. Von Batterien bis hin zu Ladegeräten und Kabeln bieten wir eine breite Palette an Produkten, mit denen Sie die Elektrik Ihres Autos optimal unterstützen können. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
+          },
+          {
+            "title": "Frostschutz",
+            "text": "Sie möchten Ihr Auto vor Frost schützen? Bei alles-auto24.de finden Sie eine große Auswahl an <a href=\"/kategorie/frostschutz/\" title=\"Frostschutz\">Frostschutz</a>produkten. Von Frostschutzmitteln bis hin zu Winterreifen bieten wir eine breite Palette an Produkten, mit denen Sie Ihr Auto optimal vor Frost schützen können. Überzeugen Sie sich selbst von unserem großen Sortiment und profitieren Sie von unseren günstigen Preisen."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE | Autozubehör",
-        "defaultMetaDescription": "Autozubehör aus der Kategorie $KATEGORIE- Finde das beste Autozubehör für dein Fahrzeug. Top $KATEGORIE Produkte. Schneller Versand.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Günstig Autozubehör shoppen",
+      "metaDescription": "In unserem Shop für Autozubehör findest du alles was du an Zubehör für dein Auto benötigst. Best-Preis-Garantie. Top Produkte und schneller Versand.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "Autozubehör von $HERSTELLER",
-        "defaultMetaDescription": "$HERSTELLER bietet Ihnen eine große Auswahl an hochwertigem Autozubehör. Der beste Preis im Internet und schneller Versand.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Autozubehör",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Autozubehör Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Autozubehör Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Hersteller für Autozubehör",
+      "metaDescription": "Auflistung aller Hersteller und Produkte für Autozubehör. Finde die besten und günstigsten Produkte in unserem Shop. Übersicht aller Marken.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT - Autozubehör",
+    "defaultMetaDescription": "In der Kategorie \"$KATEGORIE\" finden Sie das Produkt $PRODUKT vom Hersteller $HERSTELLER zu einem günstigen Preis. Schneller Versand.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      },
+      {
+        "sku": "6530174",
+        "seo": {
+          "texts": [
+            {
+              "title": "Bosch Zündkerze HS8E KSN 601 - Optimale Leistung für Ihre Geräte",
+              "text": "<p class=\"justify\">Die Bosch Zündkerze HS8E KSN 601 ist eine hochwertige Zündkerze, die für hervorragendes Startverhalten und sichere Zündung sorgt. Durch ihre Chrom-Nickel-Masseelektrode bietet sie effektiven Schutz vor Korrosion und gewährleistet somit eine lange Lebensdauer. Das vernickelte Gehäuse und Einschraubgewinde sorgen für eine dauerhaft dichte Verbindung, sodass die Zündkerze auch extremen Bedingungen standhält.</p><p class=\"justify\">Mit ihrer guten elektrischen Leitfähigkeit von eingeschmolzener Mittelelektrode und Anschlussbolzen ist die Bosch Zündkerze HS8E KSN 601 besonders geeignet für Geräte mit Alu-Zylinderköpfen, wie beispielsweise Gartentraktoren, Kettensägen, Rasenmäher und Wasserpumpen. Als Teil der Kategorie \"Sonstige Wartung & Autoreparatur\" ist diese Zündkerze ein unverzichtbares Hilfsmittel für die Wartung und Instandhaltung Ihrer Fahrzeuge und Geräte.</p><p class=\"justify\">Die Zündkerze von Bosch trägt die GTIN13 \"3165143241622\" und die SKU \"6530174\". Sie überzeugt durch ihre hohe Qualität und Langlebigkeit und hat bereits viele zufriedene Kunden, was sich in den 274 Kundenbewertungen und einer durchschnittlichen Bewertung von 5 Sternen widerspiegelt. Das Produkt wird in der Startseite, Technik, Autozubehör und Wartung & Reparatur Kategorien gelistet.</p><p class=\"justify\">Die Bosch Zündkerze HS8E KSN 601 ist ein erstklassiges Produkt, das sowohl für den Heimwerker als auch für den Profi geeignet ist. Die Zündkerze bietet optimale Leistung für Ihre Geräte und sorgt für ein effizientes und langlebiges Startverhalten. Investieren Sie in die Bosch Zündkerze HS8E KSN 601, um die Lebensdauer Ihrer Geräte zu verlängern und ihre Leistung zu optimieren.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "8711103",
+        "seo": {
+          "texts": [
+            {
+              "title": "Eufab Fahrradträger Bike Four 11437 - Der ideale Transport für Ihre Fahrräder",
+              "text": "<p class=\"justify\">Der <b>Eufab Fahrradträger Bike Four 11437</b> ist ein hochwertiger und robuster Fahrradträger für Anhängerkupplungen, der Ihnen problemlos den Transport von bis zu vier Fahrrädern ermöglicht. Ideal für den Urlaub oder den Weg zu Sport- und Freizeitaktivitäten - mit diesem Fahrradträger hat die gesamte Familie Platz für ihre Räder.</p><p class=\"justify\">Hergestellt aus Stahl, überzeugt der Eufab Fahrradträger durch seine Langlebigkeit und Stabilität. Mit seinem geringen Eigengewicht von nur 20 kg ist er leicht zu handhaben. Die stabilen V-Schienen aus Stahl sind individuell anpassbar und halten auch größeren Belastungen stand. Der Träger hat eine maximale Nutzlast von 70 kg und ist damit perfekt geeignet für den Transport von vier großen Fahrrädern mit einem maximalen Radstand von 1,20 m. Der Schienenabstand beträgt dabei komfortable 16 cm.</p><p class=\"justify\">Für Ihre Sicherheit ist der Träger mit einer dreifachen Sicherung ausgestattet: Rahmenhalter, Radstopper an den Schienen und Spanngurte im Lieferumfang sorgen für einen sicheren Stand der Fahrräder. Zusätzlich schützt die Gurtführungs-Gummierung die Fahrradrahmen vor Kratzern und Lackschäden. Der Eufab Fahrradträger Bike Four 11437 verfügt außerdem über ein Trägerschloss zum Diebstahlschutz. Abschließbare Rahmenhalter sind separat erhältlich und bieten noch mehr Sicherheit für Ihre Fahrräder.</p><p class=\"justify\">Dank der Befestigung an der Anhängerkupplung haben Sie eine geringe Be- und Entladehöhe, sodass das Auf- und Abladen der Fahrräder problemlos und ohne großen Kraftaufwand möglich ist. Die Rahmenhalter sorgen für eine schnelle Befestigung der Räder, und mit den im Lieferumfang enthaltenen Spanngurten sind sie im Handumdrehen verzurrt und abfahrbereit.</p><p class=\"justify\">Der Eufab Fahrradträger Bike Four 11437 ist TÜV-/GS-geprüft und überzeugt durch seine hervorragende Qualität und Funktionalität. Mit diesem Fahrradträger sind Sie und Ihre Familie bestens ausgerüstet für unbeschwerte Fahrradausflüge und können sich auf einen komfortablen und sicheren Transport Ihrer Fahrräder verlassen.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "9710757",
+        "seo": {
+          "texts": [
+            {
+              "title": "Eufab Dach-Fahrradträger Poker: Sicherer Transport für Ihr Fahrrad",
+              "text": "<p class=\"justify\">Der Eufab Dach-Fahrradträger Poker ist ein hochwertiges Produkt, das Ihnen die Möglichkeit bietet, Ihr Fahrrad sicher und bequem auf dem Dach Ihres Fahrzeugs zu transportieren. Dieser Dachträger der Marke Eufab eignet sich insbesondere für Autofahrer, die viel Wert auf Qualität und Funktionalität legen.</p><p class=\"justify\">Der Eufab Dach-Fahrradträger Poker zeichnet sich durch seine robuste Verarbeitung und das hochwertige Stahlmaterial aus. Mit einer Nutzlast von bis zu 15 kg können Fahrräder mit einem Radstand von bis zu 130 cm und einem Rahmendurchmesser von maximal 45 mm transportiert werden. Die abschließbare Rändelmutter ermöglicht eine einfache und sichere Befestigung des Trägers auf einem Dachlastträger mit einer Profilstärke von bis zu 50 mm x 45 mm.</p><p class=\"justify\">Die Befestigung der Fahrräder auf dem Eufab Dach-Fahrradträger Poker erfolgt mittels Haltebacken und Spanngurten, die für einen festen Halt sorgen. Die Stahlblech V-Schiene hat eine Länge von etwa 142,5 cm, was ausreichend Platz für ein Fahrrad bietet. Durch das Eigengewicht von ca. 2,5 kg ist der Träger leicht und einfach zu montieren.</p><p class=\"justify\">Eufab ist bereits seit über 20 Jahren erfolgreich auf dem deutschen Markt tätig und bietet komfortable Fahrradtransportsysteme für das Autodach und die Anhängerkupplung an. Design, Qualität und Sicherheit stehen dabei an erster Stelle. So ist auch der Eufab Dach-Fahrradträger Poker in schwarz gehalten, um sich optimal in das Gesamtbild Ihres Fahrzeugs einzufügen.</p><p class=\"justify\">Fazit: Der Eufab Dach-Fahrradträger Poker ist ein zuverlässiger und solider Fahrradträger, der den sicheren Transport Ihres Fahrrads auf dem Autodach ermöglicht. Hochwertige Verarbeitung, einfache Montage und Stabilität zeichnen dieses Produkt aus und sorgen für ein rundum zufriedenstellendes Benutzererlebnis.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "3519881",
+        "seo": {
+          "texts": [
+            {
+              "title": "Stema Anhängerset Variolux 750 inkl. Hochplanenset, Abstellstützen und Stützrad",
+              "text": "<p class=\"justify\">Das Stema Anhängerset Variolux 750 ist das perfekte Paket für Ihre privaten Transporte oder als Nutzfahrzeug-Anhänger. Mit einer Vielzahl von Sicherheits- und Komfortfunktionen und einer maximalen Nutzlast von 591 kg ermöglicht dieses Set den problemlosen Transport von schweren Lasten. Das zulässige Gesamtgewicht liegt bei 750 kg.</p><p class=\"justify\">Dank der Qualitätsgummifederachse mit Einzelradaufhängung sind auch Langstrecken kein Problem. Die Unebenheiten in der Straße werden gut ausgeglichen, und die vier zusätzlichen Verzurrhaken auf der Ladefläche sichern Ihre Ladung effektiv gegen Verrutschen. Weitere Verzurrpunkte befinden sich an der umlaufenden Reling.</p><p class=\"justify\">Die gesickten Bordwände mit ihren rinnenförmigen Vertiefungen im Blech verleihen dem Anhänger eine hohe Stabilität, selbst bei großen Belastungen. Die Quertraverse im Boden stabilisiert die Ladefläche zusätzlich. Die V-Deichsel sorgt für eine hohe Fahrstabilität und dient als weitere Sicherheit während des Transports. Der Anhänger ist mit wartungsarmen Kompaktradlagern ausgestattet und der Boden besteht aus wasserfestem, verleimtem Mehrschichtholz, das mit Phenolharz beschichtet ist.</p><p class=\"justify\">Die rutschhemmende Siebdruckstruktur der Oberfläche sorgt für den Halt von Transportgütern, während die Aluminium-Zink-Spezialbeschichtung und das feuerverzinkte Fahrgestell den Anhänger vor Witterungsschäden schützen. Die Rückwandklappe wird durch die Stema-Sicherheitsverschlüsse vor dem versehentlichen Aufspringen geschützt. Die großdimensionierten  Multifunktionsrückleuchten inklusive Nebelschlussleuchte werden über den 7-poligen Stecker an den Strom angeschlossen.</p><p class=\"justify\">Das im Lieferumfang enthaltene Stützrad erhöht nicht nur die Beweglichkeit des PKW-Anhängers sondern verhindert auch das Kippen des Anhängers. Die mitgelieferte Diebstahlsicherung schützt den Anhänger vor Fremdzugriffen während Ihrer Pausen. Im Lieferumfang enthalten sind das Hochplanenset, die Abstellstützen, die Diebstahlsicherung und das Stützrad sowie die Fahrzeugdokumente und die Betriebsanleitung. Bitte beachten Sie, dass nach erfolgter Zulassung eine Rücknahme des Anhängers nicht mehr möglich ist.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "7286743",
+        "seo": {
+          "texts": [
+            {
+              "title": "Stema Anhänger Variolux 750 inkl. Stützrad + Diebstahlsicherung",
+              "text": "<p class=\"justify\">Der Stema Anhänger Variolux 750 ist ein hochwertiger Autoanhänger der Marke Stema, der sich ideal für den Transport von Gegenständen rund um Haus, Hof und Garten eignet. Mit einem zulässigen Gesamtgewicht von 750 kg und einer Nutzlast von 609 kg bietet er ausreichend Kapazität für vielfältige Einsatzmöglichkeiten. Die solide Verarbeitung und das durchdachte Design sorgen für eine lange Lebensdauer und hohen Fahrkomfort.</p><p class=\"justify\">Zu den besonderen Merkmalen des Stema Anhängers Variolux 750 zählt die umlaufende Reling, die zahlreiche Verzurrmöglichkeiten bietet. Das Stützrad und die im Lieferumfang enthaltene Diebstahlsicherung erhöhen den Bedienkomfort und die Sicherheit des Nutzers. Die wartungsarmen Kompaktradlager, eine Qualitäts-Gummifederachse sowie großzügige Multifunktionsrückleuchten inklusive Nebelschlussleuchte zeugen von der hohen Qualität dieses Anhängers.</p><p class=\"justify\">Neben der robusten und verwindungssteifen Konstruktion durch mehrfach gesickte Bordwände verfügt der Stema Variolux 750 über eine phenolharzbeschichtete, rutschhemmende Oberfläche auf dem wasserfest verleimten Mehrschichtholzboden. Die Aluminium-Zink Spezialbeschichtung (Galvalume®) der Bordwände und das feuerverzinkte Fahrgestell gewährleisten eine hohe Witterungsbeständigkeit.</p><p class=\"justify\">Der Anhänger ist sowohl für private als auch gewerbliche Nutzung auf Kurz- und Langstrecken geeignet und erfüllt die EU-Richtlinien. Im Lieferumfang sind der Fahrzeugbrief, eine EG-Übereinstimmungserklärung (CoC-Papier) und eine Betriebsanleitung enthalten.</p><p class=\"justify\">Bitte beachten Sie, dass abgebildete Planen nicht im Lieferumfang enthalten sind und nach erfolgter Zulassung eine Rücknahme des Anhängers nicht mehr möglich ist. Entdecken Sie die Vielseitigkeit des Stema Anhängers Variolux 750 und überzeugen Sie sich selbst von seiner Topqualität und modernen Optik.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "4829750",
+        "seo": {
+          "texts": [
+            {
+              "title": "Eufab Fahrrad-Kupplungsträger Falcon - der perfekte Begleiter für Fahrradausflüge",
+              "text": "<p class=\"justify\">Möchten Sie Ihre Fahrräder sicher und bequem transportieren? Der Eufab Fahrrad-Kupplungsträger Falcon ist eine hervorragende Wahl! Diese exklusive OBI-Modellausführung bietet eine stabile Bauweise, durchdachte Benutzerfreundlichkeit und ein ausgezeichnetes Preis-Leistungsverhältnis. Mit einer Nutzlast von 55 kg und dem Eigengewicht von 15 kg eignet sich der Kupplungsträger für den Transport von zwei Fahrrädern, einschließlich E-Bikes. Der flexible Abklappmechanismus ermöglicht zudem den einfachen Zugang zum Kofferraum.</p><p class=\"justify\">Der Eufab Fahrrad-Kupplungsträger Falcon punktet mit seinem durchdachten Design und seiner hohen Sicherheit. Ein Rahmenhalter mit Haltegurten gewährleistet einen festen Halt der Fahrräder. Für zusätzlichen Diebstahlschutz kann der Fahrradträger mit einem Vorhängeschloss gesichert werden, das separat erworben werden kann. Der Schienenabstand von 20 cm ermöglicht den Transport von Fahrrädern mit einem Radstand von bis zu 126 cm.</p><p class=\"justify\">Die Montage ist dank des Schnellverschlusses denkbar einfach und schnell. Der 13-polige Anschluss ermöglicht eine problemlose Verbindung der Beleuchtungs-Anschlüsse mit Ihrem Fahrzeug, sodass Sie auch während der Fahrt den Falcon Fahrradträger sicher nutzen können. Die hochwertige Verarbeitung und die exklusive Ausstattung machen den Eufab Falcon Kupplungsträger zum idealen Begleiter für Ihre Fahrradausflüge.</p><p class=\"justify\">Eufab ist seit mehr als 20 Jahren auf dem deutschen Markt tätig und bietet komfortable Fahrradtransportsysteme auf höchstem Niveau. Ein umfangreiches Sortiment ermöglicht den sicheren Transport Ihrer Fahrräder auf der Anhängerkupplung oder dem Autodach. Die stetige Weiterentwicklung und Verbesserung der Produkte in puncto Design, Qualität und Sicherheit machen Eufab zu einer trendorientierten Marke. Verlassen Sie sich auf die Expertise von Eufab und entscheiden Sie sich für den Fahrrad-Kupplungsträger Falcon - für unvergessliche Fahrradausflüge in Komfort und Sicherheit.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "2246635",
+        "seo": {
+          "texts": [
+            {
+              "title": "LUX-TOOLS Poliermaschine C-APM-1200: Für perfekte Ergebnisse bei der Autopflege",
+              "text": "<p class=\"justify\">Die LUX-TOOLS Poliermaschine C-APM-1200 ist das ideale Gerät für alle, die Wert auf eine professionelle Autopflege legen. Ausgestattet mit einer Leistung von 1.100 W und einer variablen Leerlaufdrehzahl von 0 bis 3.000 Umdrehungen pro Minute, ermöglicht diese Poliermaschine hervorragende Ergebnisse bei der Lackpflege und -aufbereitung Ihres Fahrzeugs. Die Schleiffläche der Poliermaschine beträgt 180 mm und sorgt somit für eine effiziente Arbeitsweise.</p><p class=\"justify\">Ein besonderes Highlight dieser Maschine ist die elektronische Drehzahlregulierung, die eine präzise Anpassung der Drehzahl an die jeweilige Arbeit ermöglicht. Dadurch wird ein optimales Polierergebnis gewährleistet. Für zusätzlichen Komfort und einen sicheren Halt während der Arbeit ist die LUX-TOOLS Poliermaschine C-APM-1200 mit einem Softgrip ausgestattet. Dieser ermöglich ermüdungsfreies Arbeiten auch bei längeren Anwendungen.</p><p class=\"justify\">Die LUX-TOOLS Poliermaschine C-APM-1200 wird in einem praktischen Transportkoffer geliefert, der zugleich als Aufbewahrungsmöglichkeit dient. Ein Zusatzhandgriff ist ebenfalls im Lieferumfang enthalten, der die Handhabung der Maschine je nach persönlicher Vorliebe erleichtert. Die Poliermaschine der Marke LUX-TOOLS eignet sich daher ideal für den Einsatz in der Autopflege, genauso aber auch für andere Oberflächen, die poliert werden sollen.</p><p class=\"justify\">Mit mehr als 100 positiven Bewertungen und einer 5-Sterne-Bewertung sprechen die Kunden eine eindeutige Empfehlung für die LUX-TOOLS Poliermaschine C-APM-1200 aus. Entdecken auch Sie die Vorteile dieser leistungsstarken und handlichen Poliermaschine und erleben Sie erstklassige Ergebnisse bei der Pflege und Aufbereitung Ihres Fahrzeugs.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "6990188",
+        "seo": {
+          "texts": [
+            {
+              "title": "Stema Anhängerset AN 750-10 mit OBI-Hochplane 60 cm",
+              "text": "<p class=\"justify\">Das Stema Anhängerset AN 750-10 mit OBI-Hochplane 60 cm ist ein hochwertiges Produkt von Stema, das sich optimal für den Transport von Gegenständen aus Haus, Hof, Hobby und Garten eignet. Der ungebremste, einachsige Tieflader verfügt über ein zulässiges Gesamtgewicht von 750 kg und eine Nutzlast von 613 kg. Besonders praktisch ist die zusätzliche Quertraverse im Bodenrahmen, die für eine hohe Stabilität sorgt.</p><p class=\"justify\">Das im Lieferumfang enthaltene Hochplanenset schützt die Ladung des Stema Anhängers AN 750-10 optimal vor Witterungseinflüssen. Die Laderaumhöhe beträgt dabei 85 cm. Zudem ist der Anhänger mit einer Qualitätsgummifederachse, einer STEMA-V-Deichsel und großdimensionierten Multifunktionsrückleuchten inklusive Nebelschlussleuchte ausgestattet. Eine Vielzahl von revisionsfreundlichen Schraubverbindungen erleichtert die Wartung und Pflege des Anhängers.</p><p class=\"justify\">Der Stema Anhänger AN 750-10 wird mit einem 7-poligen Elektroanschluss, Neureifen und nach EU-Richtlinien geliefert. Der Boden besteht aus wasserfest verleimtem Mehrschichtholz mit einer phenolharzbeschichteten, rutschhemmenden Oberfläche. Damit bietet der Anhänger optimale Bedingungen für den sicheren Transport verschiedenster Gegenstände.</p><p class=\"justify\">Im Lieferumfang des Stema Anhängersets AN 750-10 sind neben dem Anhänger auch ein 60 cm hohes Hochplanenset (unmontiert, Planenfarbe Orange mit OBI-Logo), ein Fahrzeugbrief, eine EG-Übereinstimmungserklärung (CoC-Papier) und eine Betriebsanleitung enthalten. Bitte beachten Sie, dass nach erfolgter Zulassung eine Rücknahme des Anhängers nicht mehr möglich ist.</p><p class=\"justify\">Mit einer Bewertung von 5 Sternen und 284 Kundenrezensionen hat der Stema Anhängerset AN 750-10 mit OBI-Hochplane 60 cm bewiesen, dass es sich um ein verlässliches und beliebtes Produkt handelt. Entscheiden Sie sich für dieses hochwertige Anhängerset und machen Sie den Transport von Gegenständen sicherer und einfacher!</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "5818398",
+        "seo": {
+          "texts": [
+            {
+              "title": "Ernst Kühlerfrostschutz 12 Premium 1,5 l Rot - Der ideale Frostschutz für Ihr Fahrzeug",
+              "text": "<p class=\"justify\">Der Ernst Kühlerfrostschutz 12 Premium 1,5 l Rot ist ein hochwertiges Produkt für den optimalen Schutz Ihres Fahrzeugs im Winter. Mit einer optimalen Kühl- und Wärmeübertragungsflüssigkeit für Verbrennungsmotoren bietet dieses Produkt hervorragenden Schutz vor Frostschäden und korrosionsbedingten Problemen. Die Marke \"Ernst\" ist bekannt für ihre zuverlässigen und effektiven Produkte im Bereich der Frostschutzmittel, und das 1,5-Liter-Konzentrat ist keine Ausnahme.</p><p class=\"justify\">Das silikatfreie Konzentrat des Ernst Kühlerfrostschutz 12 Premium hat eine überzeugende rote Farbe, die eine einfache Unterscheidung von anderen Kühlflüssigkeiten ermöglicht und somit die korrekte Anwendung erleichtert. Des Weiteren ist es compliant mit den GTIN13-Nummern 4012097657254 und 4012097650286, was bedeutet, dass es den strengen Anforderungen der Fahrzeughersteller entspricht.</p><p class=\"justify\">Die Produktkategorie \"Frostschutz\" bietet zahlreiche Lösungen zum Schutz Ihres Fahrzeugs in der kalten Jahreszeit. Diese reichen von klassischen Frostschutzmitteln bis hin zu innovativen Produkten wie dem Ernst Kühlerfrostschutz 12 Premium. In der Kategorie \"Autozubehör\" finden Sie alles, was Sie für die Pflege und Wartung Ihres Fahrzeugs benötigen, während die Bereiche \"Technik\" und \"Startseite\" Ihnen eine breite Palette an Lösungen für unterschiedliche Situationen präsentieren.</p><p class=\"justify\">Das Produkt hat eine durchschnittliche Bewertung von 4 Sternen auf Basis von 85 Bewertungen erhalten. Dies zeigt, dass viele Kunden von der Qualität und den Leistungen des Ernst Kühlerfrostschutz 12 Premium überzeugt sind. Für einen Preis von 7,49 Euro erhalten Sie ein zuverlässiges und effektives Produkt, das Ihr Fahrzeug vor den winterlichen Gefahren schützt und die Lebensdauer erhöht.</p><p class=\"justify\">Zusammenfassend ist der Ernst Kühlerfrostschutz 12 Premium 1,5 l Rot eine ideale Lösung für alle, die auf der Suche nach einem leistungsstarken und zuverlässigen Frostschutzmittel sind. Investieren Sie in das Wohlergehen Ihres Fahrzeugs und profitieren Sie von der hervorragenden Qualität dieses Produkts.</p>"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE | Autozubehör",
+    "defaultMetaDescription": "Autozubehör aus der Kategorie $KATEGORIE- Finde das beste Autozubehör für dein Fahrzeug. Top $KATEGORIE Produkte. Schneller Versand.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen günstig kaufen",
+          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "Autozubehör von $HERSTELLER",
+    "defaultMetaDescription": "$HERSTELLER bietet Ihnen eine große Auswahl an hochwertigem Autozubehör. Der beste Preis im Internet und schneller Versand.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm günstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Autozubehör",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Autozubehör Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Autozubehör Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  }
 }
